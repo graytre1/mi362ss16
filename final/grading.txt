@@ -1,0 +1,23 @@
+100 - Hosted on Heroku (Required) - Done
+
+100 - Custom domain name (Required) - Done
+
+100 - Instructor/discretionary (Required, looking for quality, originality, spelling/grammer, overall project polish) 
+
+300 - 4 complete HTML pages with content - 4 seperate Pages that have unique post information, some links, some images
+
+
+
+200 - Custom CSS or Bootstrap for design (all pages) - Bootstrap CSS and custom theme using jquery
+
+100 - Use a Heroku add-on in your project - Using Postgres and Mailgun
+
+100 - Use a Heroku button install (https://elements.heroku.com/buttons) - Using Ghost
+
+50 - Use at least two custom images (original photography or illustration) - 3 Images from CAS 205 Class
+
+
+
+50 - Integrate non-Heroku 3rd party widget - Social media widgets at the top of page
+
+50 - Use a 3rd party font icon like FontAwesome - Integrated Fontawesome but never really used any icons, But i have it available for use.
